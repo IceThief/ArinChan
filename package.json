@@ -1,0 +1,19 @@
+{
+  "name": "arin-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node src/main.js"
+  },
+  "author": "IceThief",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "discord.js": "^14.4.0",
+    "dotenv": "^16.0.2",
+    "node-cron": "^3.0.2",
+    "request": "^2.88.2",
+    "sqlite3": "^5.1.1"
+  }
+}
